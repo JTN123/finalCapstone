@@ -42,6 +42,9 @@
 <p>This searches the data for a SKU code and returns infomration on the shoe</p>
 <li><b>i - See inventory value</b></li>
 <p>This calculates total inventory costs per SKU and prints them out induvidually alongide each item in the inventory list using tabulate. Total Cost of goods is also calculated and printed</p>
+<p>
+    <img src="https://user-images.githubusercontent.com/119878579/215812982-a7af3d92-99fc-4fb9-9847-5aa7377dd337.jpg"  />
+</p>
 <li><b>h - See the highest Qty item</b></li>
 <p>This searched for the highest quantity item and annnounces it as on sale</p>
 <li><b>e - Exit</b></li>
