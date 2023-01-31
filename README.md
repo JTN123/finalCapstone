@@ -23,10 +23,13 @@
 <p>Following installation:
 <ol>
 <li>Run 'inventory.py', you will be prompted with this menu</li>
-![capstone menu](https://user-images.githubusercontent.com/119878579/215807664-3155b5a3-3036-49b9-a540-2494f67fada7.jpg)
-
+<p>
+    <img src="https://user-images.githubusercontent.com/119878579/215807664-3155b5a3-3036-49b9-a540-2494f67fada7.jpg"  />
+</p>
 <li>Make selection 'r' to import the invetory.txt dataset</li>
-![make selection r](https://user-images.githubusercontent.com/119878579/215807161-4c622abf-182f-4826-9527-9610e85da9dc.jpg)
+<p>
+    <img src="https://user-images.githubusercontent.com/119878579/215807161-4c622abf-182f-4826-9527-9610e85da9dc.jpg"  />
+</p>
 <li>Once imported all other functions will work, select them in the menu with there respective letters</li>
 <ul>
 <li><b>c - Capture shoes</b></li>
