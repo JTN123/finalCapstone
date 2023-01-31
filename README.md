@@ -30,7 +30,7 @@
 <p>
     <img src="https://user-images.githubusercontent.com/119878579/215807161-4c622abf-182f-4826-9527-9610e85da9dc.jpg"  />
 </p>
-<li>Once imported all other functions will work, select them in the menu with there respective letters</li>
+<li>Once the data is imported all other functions will work, select them in the menu with there respective letters</li>
 <ul>
 <li><b>c - Capture shoes</b></li>
 <p>This requests information from the user which is validated and saved to the txt file</p>
